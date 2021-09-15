@@ -1,2 +1,2 @@
 # lounge_media_api
-Software for Media Indoor Administration
+Webapi para troca de dados em Asp .Net Core
